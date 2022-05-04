@@ -15,3 +15,6 @@ Updating everyday
 
 ## 2021
 - Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting  [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)
+
+## 2018
+- Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks. [[Paper]](https://arxiv.org/abs/1703.07015) [[Code]](https://github.com/laiguokun/LSTNet)
