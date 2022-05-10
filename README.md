@@ -4,7 +4,7 @@ This is a repository about Time Series Forecasting with Deeplearning method(More
 
 Updating everyday
 
-<font face="微软雅黑" size=4 color=#008000 >Contact me: hanaif@mail2.sysu.edu.cn</font> 
+Contact me: hanaif@mail2.sysu.edu.cn</font> 
 
 
 # <table><tr><td bgcolor=orange> 🔥Book for generative modeling</td></tr></table>
@@ -15,6 +15,10 @@ Updating everyday
 
 ## 2021
 - Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting  [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)
+
+## 2019
+
+- N-BEATS: Neural basis expansion analysis for interpretable time series forecasting. [[Paper]](https://arxiv.org/abs/1905.10437) [[Code]](https://github.com/unit8co/darts)  [[Dataset Used1]](https://paperswithcode.com/dataset/m4)  [[Dataset Used2]](https://paperswithcode.com/dataset/timehetnet) 
 
 ## 2018
 - Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks. [[Paper]](https://arxiv.org/abs/1703.07015) [[Code]](https://github.com/laiguokun/LSTNet)
