@@ -14,7 +14,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 - Multivariate Time Series Prediction Based on Temporal Change Information Learning Method    [[Paper]](https://github.com/hanlaoshi/Time-Series-Forecasting-with-Deeplearning/blob/main/PDF%20files%20repo/Multivariate_Time_Series_Prediction_Based_on_Temporal_Change_Information_Learning_Method.pdf)
 
 - Multivariate Time Series Forecasting with Latent Graph Inference   [[Paper]](https://arxiv.org/abs/2203.03423)
-
+    
     This paper introduces a new approach for Multivariate Time Series forecasting that jointly infers and leverages relations among time series.
 
 
