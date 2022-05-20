@@ -15,7 +15,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Multivariate Time Series Forecasting with Latent Graph Inference   [[Paper]](https://arxiv.org/abs/2203.03423)
     
-    This paper introduces a new approach for Multivariate Time Series forecasting that jointly infers and leverages relations among time series.
+        This paper introduces a new approach for Multivariate Time Series forecasting that jointly infers and leverages relations among time series.
 
 
 ## 2021
