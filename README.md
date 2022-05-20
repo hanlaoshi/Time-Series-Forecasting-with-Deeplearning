@@ -15,6 +15,9 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Multivariate Time Series Forecasting with Latent Graph Inference   [[Paper]](https://arxiv.org/abs/2203.03423)
 
+  This paper introduces a new approach for Multivariate Time Series forecasting that jointly infers and leverages relations among time series.
+
+
 ## 2021
 - Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting   [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)
 
