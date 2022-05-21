@@ -22,7 +22,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 ## 2021
 - Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting   [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)  [[Code]](https://github.com/hanlaoshi/Autoformer)
 
-        we design Autoformer as a novel decomposition architecture with an Auto-Correlation mechanism. We break with the pre-processing convention of series decomposition and renovate it as a basic inner block of deep models.
+        This paper design Autoformer as a novel decomposition architecture with an Auto-Correlation mechanism. The paper break with the pre-processing convention of series decomposition and renovate it as a basic inner block of deep models.
 
 ## 2019
 
