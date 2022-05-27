@@ -34,3 +34,4 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 ## 2018
 - Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks. [[Paper]](https://arxiv.org/abs/1703.07015) [[Code]](https://github.com/laiguokun/LSTNet)
 
+         In this paper, we proposed a novel deep learning framework, namely Long- and Short-term Time-series network (LSTNet), to address this open challenge.
