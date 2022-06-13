@@ -28,7 +28,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         This paper design Autoformer as a novel decomposition architecture with an Auto-Correlation mechanism. The paper break with the pre-processing convention of series decomposition and renovate it as a basic inner block of deep models.
         
-- MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data. [[paper]](MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data)
+- MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data.  [[paper]](https://arxiv.org/abs/2110.14354)
 
 ## 2019
 
