@@ -2,11 +2,12 @@
 
 This is a repository about Time Series Forecasting with Deeplearning method(More attention to multivariate time series)
 
-Updating everyday！
+Updating everyday
 
 Contact me: hanaif@mail2.sysu.edu.cn</font> 
 
 # <table><tr><td bgcolor=orange> 🔥Book for generative modeling</td></tr></table>
+
 
 ## 2022
 
