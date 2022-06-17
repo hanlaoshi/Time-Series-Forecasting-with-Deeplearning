@@ -25,7 +25,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Transformers in Time Series: A Survey. [[paper]](https://arxiv.org/abs/2202.07125) 
 
-         In this paper, we systematically review transformer schemes for time series modeling by highlighting their strengths as well as limitations through a new taxonomy to summarize existing time series transformers in two perspectives. 
+         In this paper, these authors systematically review transformer schemes for time series modeling by highlighting their strengths as well as limitations through a new taxonomy to summarize existing time series transformers in two perspectives. 
          
 ## 2021
 - Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting.   [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)  [[Code]](https://github.com/hanlaoshi/Autoformer)
