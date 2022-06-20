@@ -34,7 +34,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
         
 - MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data.  [[paper]](https://arxiv.org/abs/2110.14354)
 
-         In this paper, we assume that the microscopic time series follow some unknown mixture probabilistic distributions. 
+         In this paper, these authors assume that the microscopic time series follow some unknown mixture probabilistic distributions. 
 
 ## 2019
 
