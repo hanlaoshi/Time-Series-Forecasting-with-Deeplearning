@@ -23,7 +23,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         This paper introduces a new approach for Multivariate Time Series forecasting that jointly infers and leverages relations among time series.
 
-- Transformers in Time Series: A Survey. [[paper]](https://arxiv.org/abs/2202.07125) 
+- Transformers in Time Series: A Survey. [[Paper]](https://arxiv.org/abs/2202.07125) 
 
          In this paper, these authors systematically review transformer schemes for time series modeling by highlighting their strengths as well as limitations through a new taxonomy to summarize existing time series transformers in two perspectives. 
          
