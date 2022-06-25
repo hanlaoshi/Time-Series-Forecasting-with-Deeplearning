@@ -33,7 +33,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Probabilistic Time Series Forecasting with Shape and Temporal Diversity. [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html)  [[Code]](https://github.com/vincent-leguen/STRIPE)
 
-         We introduce the STRIPE model for representing structured diversity based on shape and time features, ensuring both probable predictions while being sharp and accurate.
+         These authors introduce the STRIPE model for representing structured diversity based on shape and time features, ensuring both probable predictions while being sharp and accurate.
 
 ## 2021
 - Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting.    [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)  [[Code]](https://github.com/hanlaoshi/Autoformer)
