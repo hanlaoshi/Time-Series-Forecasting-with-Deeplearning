@@ -9,6 +9,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 # <table><tr><td bgcolor=orange> 🔥Book for generative modeling</td></tr></table>
 
 
+
 ## 2022
 
 - Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting. [[paper]](https://openreview.net/forum?id=0EXmFzUn5I) [[code]](https://github.com/alipay/Pyraformer)
