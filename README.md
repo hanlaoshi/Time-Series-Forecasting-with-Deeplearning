@@ -46,7 +46,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - TimeVAE: A Variational Auto-Encoder for Multivariate Time Series Generation. [[Paper]](https://arxiv.org/abs/2111.08095)  [[Code]](https://github.com/abudesai/timeVAE)
 
-          We propose a novel architecture for synthetically generating time-series data with the use of Variational Auto-Encoders (VAEs). The proposed architecture has several distinct properties: interpretability, ability to encode domain knowledge, and reduced training times.
+          These authors propose a novel architecture for synthetically generating time-series data with the use of Variational Auto-Encoders (VAEs). The proposed architecture has several distinct properties: interpretability, ability to encode domain knowledge, and reduced training times.
 
 ## 2019
 
