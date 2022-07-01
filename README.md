@@ -44,6 +44,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
          In this paper, these authors assume that the microscopic time series follow some unknown mixture probabilistic distributions. 
 
+- TimeVAE: A Variational Auto-Encoder for Multivariate Time Series Generation. [[paper]](https://arxiv.org/abs/2111.08095)  [[code]](https://github.com/abudesai/timeVAE)
+
 ## 2019
 
 - N-BEATS: Neural basis expansion analysis for interpretable time series forecasting. [[Paper]](https://arxiv.org/abs/1905.10437) [[Code]](https://github.com/unit8co/darts)   [[Dataset Used1]](https://paperswithcode.com/dataset/m4)  [[Dataset Used2]](https://paperswithcode.com/dataset/timehetnet) 
