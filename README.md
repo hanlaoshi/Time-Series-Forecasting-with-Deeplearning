@@ -44,7 +44,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
          In this paper, these authors assume that the microscopic time series follow some unknown mixture probabilistic distributions. 
 
-- TimeVAE: A Variational Auto-Encoder for Multivariate Time Series Generation. [[paper]](https://arxiv.org/abs/2111.08095)  [[code]](https://github.com/abudesai/timeVAE)
+- TimeVAE: A Variational Auto-Encoder for Multivariate Time Series Generation. [[Paper]](https://arxiv.org/abs/2111.08095)  [[code]](https://github.com/abudesai/timeVAE)
 
 ## 2019
 
