@@ -48,6 +48,9 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
           These authors propose a novel architecture for synthetically generating time-series data with the use of Variational Auto-Encoders (VAEs). The proposed architecture has several distinct properties: interpretability, ability to encode domain knowledge, and reduced training times.
 
+
+##2020
+
 ## 2019
 
 - N-BEATS: Neural basis expansion analysis for interpretable time series forecasting. [[Paper]](https://arxiv.org/abs/1905.10437) [[Code]](https://github.com/unit8co/darts)   [[Dataset Used1]](https://paperswithcode.com/dataset/m4)  [[Dataset Used2]](https://paperswithcode.com/dataset/timehetnet) 
