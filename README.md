@@ -1,6 +1,6 @@
 # Time-Series-Forecasting-with-Deeplearning
 
-This is a repository about Time Series Forecasting with Deeplearning method(More attention to multivariate time series)
+This is a repository about Time Series Forecasting with Deeplearning method (More attention to multivariate time series)
 
 Updating everyday
 
