@@ -7,7 +7,7 @@ Updating everyday
 
 Contact me: hanaif@mail2.sysu.edu.cn</font> 
 
-# <table><tr><td bgcolor=orange> 🔥Book for generative modeling</td></tr></table>
+# <table><tr><td bgcolor=orange> 🔥 Book for generative modeling</td></tr></table>
 
 
 ## 2022
