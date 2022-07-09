@@ -38,7 +38,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
          These authors introduce the STRIPE model for representing structured diversity based on shape and time features, ensuring both probable predictions while being sharp and accurate.
 
 ## 2021
-- Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting.    [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)  [[Code]](https://github.com/hanlaoshi/Autoformer)
+- Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting.   [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)  [[Code]](https://github.com/hanlaoshi/Autoformer)
 
         This paper design Autoformer as a novel decomposition architecture with an Auto-Correlation mechanism. The paper break with the pre-processing convention of series decomposition and renovate it as a basic inner block of deep models.
         
