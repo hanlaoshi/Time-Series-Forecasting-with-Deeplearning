@@ -52,6 +52,8 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
 - Time Series Analysis and Modeling to Forecast: a Survey. [[Paper]](https://arxiv.org/abs/2104.00164)
 
+         We cover a sufficiently broad spectrum of models while nonetheless offering substantial methodological developments. We describe three major linear parametric models, together with two nonlinear extensions, and present five categories of nonlinear parametric models.
+
 ## 2020
 
 - Probabilistic Time Series Forecasting with Shape and Temporal Diversity.  [[paper]](https://proceedings.neurips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html)
