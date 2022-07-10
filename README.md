@@ -50,7 +50,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
           These authors propose a novel architecture for synthetically generating time-series data with the use of Variational Auto-Encoders (VAEs). The proposed architecture has several distinct properties: interpretability, ability to encode domain knowledge, and reduced training times.
 
-- Time Series Analysis and Modeling to Forecast: a Survey. [[paper]](https://arxiv.org/abs/2104.00164)
+- Time Series Analysis and Modeling to Forecast: a Survey. [[Paper]](https://arxiv.org/abs/2104.00164)
 
 ## 2020
 
