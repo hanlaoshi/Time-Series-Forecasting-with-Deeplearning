@@ -14,7 +14,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
 - Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting.  [[paper]](https://openreview.net/forum?id=0EXmFzUn5I) [[code]](https://github.com/alipay/Pyraformer)
 
-         In this paper, These authors propose Pyraformer by exploring the multiresolution representation of the time series.
+         In this paper, these authors propose Pyraformer by exploring the multiresolution representation of the time series.
 
 
 - Multivariate Time Series Prediction Based on Temporal Change Information Learning Method.    [[Paper]](https://github.com/hanlaoshi/Time-Series-Forecasting-with-Deeplearning/blob/main/PDF%20files%20repo/Multivariate_Time_Series_Prediction_Based_on_Temporal_Change_Information_Learning_Method.pdf)
