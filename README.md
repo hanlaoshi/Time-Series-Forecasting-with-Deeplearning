@@ -61,7 +61,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
           In this paper, we address this problem(probanilistic forecasting) for non-stationary time series, which is very challenging yet crucially important.
 - Probabilistic Forecasting with Temporal Convolutional Neural Network. [[Paper]](https://arxiv.org/abs/1906.04397)  [[Code]](https://github.com/oneday88/deepTCN?utm_source=catalyzex.com)
 
-
+         Combined with representation learning, our approach is able to learn complex patterns such as seasonality, holiday effects within and across series, and to leverage those patterns for more accurate forecasts, especially when historical data is sparse or unavailable.
 
 ## 2019
 
