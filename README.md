@@ -66,6 +66,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
         This paper propose a deep neural architecture based on backward and forward residual links and a very deep stack of fully-connected layers. 
 
+- Probabilistic Forecasting with Temporal Convolutional Neural Network. [[paper]](https://arxiv.org/abs/1906.04397)  [[code]](https://github.com/oneday88/deepTCN?utm_source=catalyzex.com)
 ## 2018
 - Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks. [[Paper]](https://arxiv.org/abs/1703.07015)  [[Code]](https://github.com/laiguokun/LSTNet)
 
