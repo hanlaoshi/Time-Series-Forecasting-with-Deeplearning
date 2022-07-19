@@ -33,7 +33,7 @@ Contact me: hanaif@mail2.sysu.edu.cn</font>
 
          This paper proposes a Bayesian optimization-based dynamic ensemble (BODE) that overcomes the single model-based methods limitation and provides a dynamic ensemble forecast combination for TS with time-varying underlying patterns.
 
-- Probabilistic Time Series Forecasting with Shape and Temporal Diversity. [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html)  [[Code]](https://github.com/vincent-leguen/STRIPE)
+- Probabilistic Time Series Forecasting with Shape and Temporal Diversity.  [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html)  [[Code]](https://github.com/vincent-leguen/STRIPE)
 
          These authors introduce the STRIPE model for representing structured diversity based on shape and time features, ensuring both probable predictions while being sharp and accurate.
 
