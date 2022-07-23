@@ -7,7 +7,7 @@ Updating everyday
 
 Contact me: hanaif@mail2.sysu.edu.cn</font> 
 
-# <table><tr><td bgcolor=orange>    🔥Paper For Time Series Forecasting</td></tr></table>
+# <table><tr><td bgcolor=orange>   🔥Paper For Time Series Forecasting</td></tr></table>
 
 
 ## 2022
