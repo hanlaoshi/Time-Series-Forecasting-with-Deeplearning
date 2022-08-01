@@ -37,6 +37,8 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
          These authors introduce the STRIPE model for representing structured diversity based on shape and time features, ensuring both probable predictions while being sharp and accurate.
 
+- CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting. [[Paper]](https://arxiv.org/abs/2202.01575)  [[Code]](https://github.com/salesforce/CoST)
+
 ## 2021
 - Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting.   [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)  [[Code]](https://github.com/hanlaoshi/Autoformer)
 
