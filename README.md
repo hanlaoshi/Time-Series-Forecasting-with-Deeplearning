@@ -60,6 +60,8 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
 - A Robust and Efficient Multi-Scale Seasonal-Trend Decomposition. [[paper]](https://ieeexplore.ieee.org/abstract/document/9413939)
 
+         In this paper, we propose a general and efficient multi-scale seasonal-trend decomposition algorithm for time series with multiple seasonality.
+
 ## 2020
 
 - Probabilistic Time Series Forecasting with Shape and Temporal Diversity.  [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html)
