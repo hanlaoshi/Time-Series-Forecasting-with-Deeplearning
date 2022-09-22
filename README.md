@@ -58,6 +58,8 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
          We cover a sufficiently broad spectrum of models while nonetheless offering substantial methodological developments. We describe three major linear parametric models, together with two nonlinear extensions, and present five categories of nonlinear parametric models.
 
+- A Robust and Efficient Multi-Scale Seasonal-Trend Decomposition. [[paper]](https://ieeexplore.ieee.org/abstract/document/9413939)
+
 ## 2020
 
 - Probabilistic Time Series Forecasting with Shape and Temporal Diversity.  [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html)
