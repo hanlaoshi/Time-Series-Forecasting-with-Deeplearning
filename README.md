@@ -56,7 +56,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
 - Time Series Analysis and Modeling to Forecast: a Survey. [[Paper]](https://arxiv.org/abs/2104.00164)
 
-         We cover a sufficiently broad spectrum of models while nonetheless offering substantial methodological developments. We describe three major linear parametric models, together with two nonlinear extensions, and present five categories of nonlinear parametric models.
+         These authors cover a sufficiently broad spectrum of models while nonetheless offering substantial methodological developments. We describe three major linear parametric models, together with two nonlinear extensions, and present five categories of nonlinear parametric models.
 
 - A Robust and Efficient Multi-Scale Seasonal-Trend Decomposition. [[paper]](https://ieeexplore.ieee.org/abstract/document/9413939)
 
