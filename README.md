@@ -60,7 +60,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
 - A Robust and Efficient Multi-Scale Seasonal-Trend Decomposition. [[paper]](https://ieeexplore.ieee.org/abstract/document/9413939)
 
-         In this paper, we propose a general and efficient multi-scale seasonal-trend decomposition algorithm for time series with multiple seasonality.
+         In this paper, these authors propose a general and efficient multi-scale seasonal-trend decomposition algorithm for time series with multiple seasonality.
 
 ## 2020
 
