@@ -66,6 +66,10 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
          In this paper, these authors propose a general and efficient multi-scale seasonal-trend decomposition algorithm for time series with multiple seasonality.
 
+- NeuralProphet: Explainable Forecasting at Scale. [[Paper]](https://arxiv.org/abs/2111.15397)  [[Code]](https://github.com/ourownstory/neural_prophet)
+
+         This paper introduce NeuralProphet, a successor to Facebook Prophet, which set an industry standard for explainable, scalable, and user-friendly forecasting frameworks.
+
 ## 2020
 
 - Probabilistic Time Series Forecasting with Shape and Temporal Diversity.  [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html)
