@@ -29,7 +29,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
          In this paper, these authors systematically review transformer schemes for time series modeling by highlighting their strengths as well as limitations through a new taxonomy to summarize existing time series transformers in two perspectives. 
          
-- Bayesian optimization based dynamic ensemble for time series forecasting. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025522000135)
+- Bayesian optimization based dynamic ensemble for time series forecasting.  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025522000135)
 
          This paper proposes a Bayesian optimization-based dynamic ensemble (BODE) that overcomes the single model-based methods limitation and provides a dynamic ensemble forecast combination for TS with time-varying underlying patterns.
 
