@@ -11,6 +11,9 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
 ## 2023
 
+- Learning Informative Representation for Fairness-aware Multivariate Time-series Forecasting: A Group-based Perspective. [[Paper]](https://arxiv.org/abs/2301.11535) 
+
+         This paper formulate the Multivariate time series (MTS) fairness modeling problem as learning informative representations attending to both advantaged and disadvantaged variables.
 
 ## 2022
 
