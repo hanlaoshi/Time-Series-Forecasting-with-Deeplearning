@@ -22,7 +22,7 @@ Contact me:   hanaif@mail2.sysu.edu.cn</font>
          In this paper, these authors propose Pyraformer by exploring the multiresolution representation of the time series.
 
 
-- Multivariate Time Series Prediction Based on Temporal Change Information Learning Method.   [[Paper]](https://github.com/hanlaoshi/Time-Series-Forecasting-with-Deeplearning/blob/main/PDF%20files%20repo/Multivariate_Time_Series_Prediction_Based_on_Temporal_Change_Information_Learning_Method.pdf)
+- Multivariate Time Series Prediction Based on Temporal Change Information Learning Method.  [[Paper]](https://github.com/hanlaoshi/Time-Series-Forecasting-with-Deeplearning/blob/main/PDF%20files%20repo/Multivariate_Time_Series_Prediction_Based_on_Temporal_Change_Information_Learning_Method.pdf)
 
          A temporal change information learning (CIL) method is proposed in this article.
 
