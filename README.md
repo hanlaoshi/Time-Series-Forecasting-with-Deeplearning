@@ -26,7 +26,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
          A temporal change information learning (CIL) method is proposed in this article.
 
-- Multivariate Time Series Forecasting with Latent Graph Inference.  [[Paper]](https://arxiv.org/abs/2203.03423)
+- Multivariate Time Series Forecasting with Latent Graph Inference.   [[Paper]](https://arxiv.org/abs/2203.03423)
 
         This paper introduces a new approach for Multivariate Time Series forecasting that jointly infers and leverages relations among time series.
 
