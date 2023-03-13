@@ -17,7 +17,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
 ## 2022
 
-- Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting. [[Paper]](https://openreview.net/forum?id=0EXmFzUn5I) [[Code]](https://github.com/alipay/Pyraformer)
+- Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting.  [[Paper]](https://openreview.net/forum?id=0EXmFzUn5I) [[Code]](https://github.com/alipay/Pyraformer)
 
          In this paper, these authors propose Pyraformer by exploring the multiresolution representation of the time series.
 
