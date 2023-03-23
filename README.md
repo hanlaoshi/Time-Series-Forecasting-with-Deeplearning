@@ -19,7 +19,7 @@ Contact me:   hanaif@mail2.sysu.edu.cn</font>
 
          In this paper, these author propose an efficient design of Transformer-based models for multivariate time series forecasting and self-supervised representation learning
          
-- Crossformer: Transformer utilizing cross-dimension dependency for multivariate time series forecasting. [[Paper]](https://openreview.net/pdf?id=vSVLM2j9eie) [[Code]](https://github.com/Thinklab-SJTU/Crossformer)
+- Crossformer: Transformer utilizing cross-dimension dependency for multivariate time series forecasting.  [[Paper]](https://openreview.net/pdf?id=vSVLM2j9eie) [[Code]](https://github.com/Thinklab-SJTU/Crossformer)
 
          This paper propose Crossformer, a Transformer-based model utilizing cross-dimension dependency for multivariate time series(MTS) forecasting.
 
