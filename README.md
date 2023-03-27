@@ -23,6 +23,8 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
          This paper propose Crossformer, a Transformer-based model utilizing cross-dimension dependency for multivariate time series(MTS) forecasting.
 
+
+
 ## 2022
 
 - Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting.  [[Paper]](https://openreview.net/forum?id=0EXmFzUn5I) [[Code]](https://github.com/alipay/Pyraformer)
@@ -57,6 +59,11 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 - Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency. [[Paper]](https://arxiv.org/abs/2206.08496)
 
          These authors define a decomposable pre-training model, where the self-supervised signal is provided by the distance between time and frequency components, each individually trained by contrastive estimation.
+
+- Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting. [[Paper]](https://arxiv.org/abs/2202.11356)
+
+         This paper proposes a predictive Transformer-based model called {\em Preformer}, which introduces a novel efficient {\em Multi-Scale Segment-Correlation} mechanism that divides time series into segments and utilizes segment-wise correlation-based attention for encoding time series.
+
 
 ## 2021
 - Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting.   [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html)  [[Code]](https://github.com/hanlaoshi/Autoformer)
