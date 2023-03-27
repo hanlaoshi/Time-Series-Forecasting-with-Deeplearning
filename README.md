@@ -62,7 +62,7 @@ Contact me:  hanaif@mail2.sysu.edu.cn</font>
 
 - Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting. [[Paper]](https://arxiv.org/abs/2202.11356)
 
-         This paper proposes a predictive Transformer-based model called {\em Preformer}, which introduces a novel efficient {\em Multi-Scale Segment-Correlation} mechanism that divides time series into segments and utilizes segment-wise correlation-based attention for encoding time series.
+         This paper proposes a predictive Transformer-based model called Preformer, which introduces a novel efficient Multi-Scale Segment-Correlation mechanism that divides time series into segments and utilizes segment-wise correlation-based attention for encoding time series.
 
 
 ## 2021
