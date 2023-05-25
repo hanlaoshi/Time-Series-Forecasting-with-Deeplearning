@@ -15,7 +15,7 @@ Contact me:   hanaif@mail2.sysu.edu.cn</font>
 
          This paper formulate the Multivariate time series (MTS) fairness modeling problem as learning informative representations attending to both advantaged and disadvantaged variables.
 
-- A Time Series is Worth 64 Words: Long-term Forecasting with Transformers.   [[Paper]](https://arxiv.org/pdf/2211.14730.pdf)  [[Code]](https://github.com/yuqinie98/patchtst)
+- A Time Series is Worth 64 Words: Long-term Forecasting with Transformers.  [[Paper]](https://arxiv.org/pdf/2211.14730.pdf)  [[Code]](https://github.com/yuqinie98/patchtst)
 
          In this paper, these author propose an efficient design of Transformer-based models for multivariate time series forecasting and self-supervised representation learning
          
